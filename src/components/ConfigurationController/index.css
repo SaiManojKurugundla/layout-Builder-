@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.layout-section {
+  background-color: #475569;
+}
+
+.configuration.controls-contianer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #475569;
+}
+
+@media screen and (min-width: 768px) {
+  .configuration.controls-contianer {
+    align-items: center;
+  }
+}
+
+.responsive-controls-contianer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

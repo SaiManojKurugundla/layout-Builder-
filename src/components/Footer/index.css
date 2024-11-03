@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #e2e8f0;
+}
